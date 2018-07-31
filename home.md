@@ -6,3 +6,6 @@ This is a small website for me to organize material relating to neuroanesthesia.
 # Contents:
 
 [[evidence-based-topical-reviews | Evidence-Based Topical Reviews]]
+
+[test1]
+[[test2]]
