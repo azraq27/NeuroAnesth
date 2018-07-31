@@ -1,7 +1,5 @@
-# Neuroanesthesia
+# Topics in Neuroanesthesia
 
-
-## Summary
 This is a small website for me to organize material relating to neuroanesthesia. I'm starting this project as part of my fellowship training, and I'm hoping that the information will be useful to others in the field.
 
 ## Topical Reviews
