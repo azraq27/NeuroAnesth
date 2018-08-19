@@ -4,6 +4,8 @@ _Randall M Chesnut;  Nancy Temkin;  Nancy Carney;  Sureyya Dikmen;  Carlos Rondi
 
 _The New England Journal of Medicine. 2012. 10.1056/NEJMoa1207363_
 
+https://www.nejm.org/doi/full/10.1056/NEJMoa1207363
+
 _AKA: The BEST-TRIP trial_
 
 ### Key points:
