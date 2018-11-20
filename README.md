@@ -8,3 +8,4 @@ These are reviews of the evidence behind current issues or practices within neur
 
 * [Is monitoring and managing ICP important, and does it change outcomes?](icp_review.md)
 
+[ICP Literature review for journal club](icp_outline.md)
